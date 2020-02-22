@@ -6,7 +6,7 @@ Users can sign up to view the food available, make a reservation and then procce
 
 ## Register page
 
-![](demo/signup.png)
+![](demo/singup.png)
 
 
 
