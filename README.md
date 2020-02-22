@@ -4,6 +4,10 @@ This is a full Stack JavaScript application that allows restaurants to make post
 
 Users can sign up to view the food available, make a reservation and then procced to pick it up at the restaurant location.
 
+## Register page
+
+![](demo/signup.png)
+
 
 
 
