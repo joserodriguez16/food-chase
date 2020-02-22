@@ -1,0 +1,31 @@
+.center {
+	margin: auto;
+	width: 70%;
+	
+	padding: 10px;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.w-95{
+	width: 95%;
+}
+.w-99{
+	width: 99%;
+}
+.center-2 {
+
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+
+
+.pointer {
+	cursor: pointer;
+}
+

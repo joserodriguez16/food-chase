@@ -1,0 +1,21 @@
+.text{
+	font-family: "Courier New", Times, serif;
+}
+
+.center {
+	margin: auto;
+	width: 70%;
+	padding: 10px;
+}
+.imgct {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.block{
+	display: block;
+}
+
+.pa5{
+	padding: 100px;
+}

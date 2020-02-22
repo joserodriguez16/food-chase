@@ -1,0 +1,7 @@
+.fixed {
+	position: fixed;
+	width: 98%;
+	margin-top: 2%;
+	background-color: white;
+	z-index: 10;
+}
