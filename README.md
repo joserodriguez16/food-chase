@@ -22,11 +22,11 @@ Users can sign up to view the food available, make a reservation and then procce
 
 ## Restaurant removing a dish
 
-![](demo/removing.gif)
+![](demo/removing.GIF)
 
 ## Customer reserving a dish and completing after pick up
 
-![](demo/reservingcomplete.gif)
+![](demo/reservingcomplete.GIF)
 
 
 
