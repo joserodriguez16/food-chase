@@ -8,21 +8,31 @@ Users can sign up to view the food available, make a reservation and then procce
 
 ![](demo/landing.png)
 
+---------------------------------------------------------
+
 ## Register page
 
 ![](demo/signup.png)
+
+---------------------------------------------------------
 
 ## Login page
 
 ![](demo/login.png)
 
+---------------------------------------------------------
+
 ## Restaurant posting a dish
 
 ![](demo/addingplate.gif)
 
+---------------------------------------------------------
+
 ## Restaurant removing a dish
 
 ![](demo/removing.GIF)
+
+---------------------------------------------------------
 
 ## Customer reserving a dish and completing after pick up
 
